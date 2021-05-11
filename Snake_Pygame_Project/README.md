@@ -16,4 +16,7 @@ _Exit Game Button_
   * https://docs.python.org/3/library/
 
 * Pygame Widgets Library
+https://www.pygame.org/docs/
+
+* Pygame Widgets Library
   * https://github.com/AustL/PygameWidgets
