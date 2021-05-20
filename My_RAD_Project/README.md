@@ -1,6 +1,6 @@
 # My First RAD Project
 
-![](preview.jpg)
+![](preview.png)
 
   
 **_My implementations_**  
@@ -8,7 +8,7 @@
 _Clear fields, Add, Update and Delete Record and Exit Buttons_
 _Disable / Enable Buttons_  
 _Statistics Painel_  
-_MessageBox for exeptions and exit_ 
+_MessageBox for exeptions and exit_  
 
 * Python Library
   * https://docs.python.org/3/library/
