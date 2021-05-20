@@ -1,0 +1,43 @@
+# exibir um texto
+print("Helo World")
+
+# exibir o conteudo de uma variável
+s = "Helo World"
+print(s)
+
+num = 10
+print(num)
+
+# entrada de dados com a função input
+# o retorno do input sempre será uma string
+nome = input("Entre com o seu nome: ")
+print(nome)
+
+# convertendo dados de input com a função eval
+num = eval(input("Entre com um número: "))
+print(num + 2)
+
+# Formatando os valores de saida
+hora=10
+minutos=30
+segundos=12
+
+# usando a função format
+print('{} : {} : {}'.format(hora, minutos, segundos))
+
+# usando a função f
+print(f'{hora} : {minutos} : {segundos}')
+
+# exibindo trexos de uma string
+s = "Ola Mundo"
+print(s[0:3])
+
+"""
+mudando a ordem de leitura
+o valor -1 indica que a leitura será feita do fim para o começo da string
+"""
+s = "Ola Mundo"
+print(s[::-1])
+
+
+
