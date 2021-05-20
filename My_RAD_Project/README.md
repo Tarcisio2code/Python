@@ -10,6 +10,8 @@ _Disable / Enable Buttons_
 _Statistics Painel_  
 _MessageBox for exeptions and exit_  
 
+_According to class about "Aplicando RAD" from professor Sérgio Assunção Monteiro in Estacio University_
+
 * Python Library
   * https://docs.python.org/3/library/
 
